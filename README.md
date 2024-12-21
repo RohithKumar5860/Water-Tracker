@@ -11,6 +11,6 @@ JavaScript handles the dynamic functionality, such as tracking water levels and 
 
 This project can be further enhanced by integrating local storage to retain progress across sessions or adding notifications to remind users to drink water. It's an excellent project to demonstrate front-end development skills, including DOM manipulation, responsive design, and interactive UI creation.
 </p>
-<img src = "">
+<img src = "outbefore.png">
 <img src = "">
 <img src = "">
