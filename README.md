@@ -13,4 +13,4 @@ This project can be further enhanced by integrating local storage to retain prog
 </p>
 <img src = "outbefore.png">
 <img src = "outputmid.png">
-<img src = "">
+<img src = "outputfinsl.png">
